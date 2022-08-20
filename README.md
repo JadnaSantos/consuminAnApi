@@ -9,15 +9,14 @@ Criar uma API
 - [x] Habilitar o CORS 
 - [x] Habilitar o nodemon para reiniciar o server 
 
-## FronEnd
+## FrontEnd
 
-- [x] Utilizar fetch para consumir nossa API backend
+- [x] Utilizar fetch para consumir API backend
 
 
 ## backend
 
 - [x] jsonplaceholder (https://jsonplaceholder.typicode.com/users)
 - [x] usar o axios 
-- [x] semelhanças entre o axios e fetch
 - [x] usar try/catch
 
